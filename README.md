@@ -5,17 +5,19 @@ This project demonstrates a complete sales data analysis workflow using SQL. It 
 [Product-Sales-Region.xlsx](https://github.com/user-attachments/files/21812354/Product-Sales-Region.xlsx)
 
 ******************************************************************************************************
-The Data in Descending Order
+-----------------------------------------The Data in Descending Order----------------------------------------
 <img width="1024" height="500" alt="Screenshot 2025-08-16 171251" src="https://github.com/user-attachments/assets/964ab1b1-305b-4f84-bd39-6090d82cc2be" />
 
 *********************************************************************************************************************
-Total Revenue With Respect To Product
-<img width="875" height="523" alt="Screenshot 2025-08-16 171308" src="https://github.com/user-attachments/assets/0417325b-c039-4f15-9c57-7c39112484cf" />
+-----------------------------------Total Revenue With Respect To Product---------------------------------
 
-**************************************************************************************************************
 
 
 <img width="980" height="527" alt="Screenshot 2025-08-16 171209" src="https://github.com/user-attachments/assets/5f1661b6-3a07-45d0-8580-016f43e53d94" />
+
+---------------------------------------TOP 5 Customers--------------------------------------------------------------
+<img width="1068" height="565" alt="Screenshot 2025-08-16 173120" src="https://github.com/user-attachments/assets/ffcb2660-98e6-441b-bce6-c097fa46d534" />
+
 
 The project includes:
 
