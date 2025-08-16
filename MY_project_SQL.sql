@@ -71,8 +71,19 @@ DELIMITER ;
 -- How to use the stored procedure
 CALL GetTopCustomers(5);
 
+--Revenue by Payment methods
 
-
+SELECT
+    PaymentMethod,
+    SUM(Quantity * UnitPrice) AS total_revenue
+FROM
+    <your_actual_table_name>
+WHERE
+    Returned = 0
+GROUP BY
+    PaymentMethod
+ORDER BY
+    total_revenue DESC;
 
 
 
