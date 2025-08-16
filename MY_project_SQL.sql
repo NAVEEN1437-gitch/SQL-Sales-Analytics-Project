@@ -48,10 +48,9 @@ FROM
 ORDER BY
     lifetime_value DESC;
     
-DELIMITER //
 
 CREATE PROCEDURE GetTopCustomers(IN topN INT)
-BEGIN
+
     SELECT
         CustomerName,
         SUM(Quantity * UnitPrice) AS total_spent
@@ -64,9 +63,9 @@ BEGIN
     ORDER BY
         total_spent DESC
     LIMIT topN;
-END //
 
-DELIMITER ;
+
+
 
 -- How to use the stored procedure
 CALL GetTopCustomers(5);
