@@ -35,6 +35,6 @@ Why it's important: A relational database is far more efficient and powerful for
 Step 2: Running Core Analytics Queries
 This is the core analysis phase where you extract key business insights from your data.
 
-What you did: You wrote and executed two crucial queries:
+
 
 Monthly Revenue: This query used the DATE_FORMAT() function to group sales by month and calculate the total revenue for each month.
