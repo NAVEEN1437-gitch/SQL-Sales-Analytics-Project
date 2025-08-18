@@ -28,7 +28,7 @@ The project includes:
 Step 1: Data Preparation and Importing
 This is the foundational step where you get the raw data ready for analysis.
 
-What you did: You took your sales data, which was initially in an Excel file, and prepared it for a database environment. This involved identifying the columns (Quantity, UnitPrice, OrderDate, etc.) and using the MySQL Workbench Data Import Wizard to load the data into a MySQL table.
+What I did: I took your sales data, which was initially in an Excel file, and prepared it for a database environment. This involved identifying the columns (Quantity, UnitPrice, OrderDate, etc.) and using the MySQL Workbench Data Import Wizard to load the data into a MySQL table.
 
 Why it's important: A relational database is far more efficient and powerful for data analysis than a spreadsheet. It allows for complex queries, handles much larger datasets, and ensures data consistency, which are all limitations of a simple Excel file.
 
