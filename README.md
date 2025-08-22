@@ -14,7 +14,7 @@ This project demonstrates a complete sales data analysis workflow using SQL. It 
 
 
 <img width="980" height="527" alt="Screenshot 2025-08-16 171209" src="https://github.com/user-attachments/assets/5f1661b6-3a07-45d0-8580-016f43e53d94" />
-**********************************************************************************************************************************************************
+
 # TOP 5 Customers
 <img width="1068" height="565" alt="Screenshot 2025-08-16 173120" src="https://github.com/user-attachments/assets/ffcb2660-98e6-441b-bce6-c097fa46d534" />
 
