@@ -33,7 +33,7 @@ What I did: I took your sales data, which was initially in an Excel file, and pr
 Why it's important: A relational database is far more efficient and powerful for data analysis than a spreadsheet. It allows for complex queries, handles much larger datasets, and ensures data consistency, which are all limitations of a simple Excel file.
 
 Step 2: Running Core Analytics Queries
-This is the core analysis phase where you extract key business insights from your data.
+This is the core analysis phase where you extract key business insights from your data..
 
 
 
