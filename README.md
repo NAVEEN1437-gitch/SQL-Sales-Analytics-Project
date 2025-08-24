@@ -2,7 +2,7 @@
 
 This project demonstrates a complete sales data analysis workflow using SQL. It starts with raw sales data from an Excel file and transforms it into a series of meaningful business insights using MySQL.
 ******************************************************************************************************************************************************************
-📂 [Product-Sales-Region.xlsx](https://github.com/user-attachments/files/21812354/Product-Sales-Region.xlsx)
+**📂File : **  [Product-Sales-Region.xlsx](https://github.com/user-attachments/files/21812354/Product-Sales-Region.xlsx)
 
 ****************************************************************************************************************************************************************
 # The Data in Descending Order
